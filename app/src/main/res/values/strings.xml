@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Face Recognizer</string>
+    
+    <string name="button_recognize">Recognize</string>
+    <string name="album_name">FaceRecognizer</string>
+    <string name="list_menu">Menu</string>
+    <string name="button_add_face">Add Face</string>
+    <string name="button_capture">Capture</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_save">Save</string>
+    <string name="text_name">Name</string>
+    <string name="image_desc">Captured face image</string>
+
+</resources>

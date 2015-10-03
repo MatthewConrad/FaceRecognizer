@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Documents/FaceRecognizer/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/Documents/FaceRecognizer/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="album_name">FaceRecognizer</string>
+    <string name="app_name">Face Recognizer</string>
+    <string name="button_add_face">Add Face</string>
+    <string name="button_capture">Capture</string>
+    <string name="button_discard">Discard</string>
+    <string name="button_recognize">Recognize</string>
+    <string name="button_save">Save</string>
+    <string name="image_desc">Captured face image</string>
+    <string name="list_menu">Menu</string>
+    <string name="text_name">Name</string>
+    <!-- From: file:/D:/Documents/FaceRecognizer/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

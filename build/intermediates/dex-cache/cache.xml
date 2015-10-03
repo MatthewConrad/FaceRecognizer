@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Documents\AndroidDev\SDK\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="D:\Documents\FaceRecognizer\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-ec6fbbe596af269aa26b11558660c10605f9fdc6.jar" />
+    </item>
+    <item
+        jar="D:\Documents\FaceRecognizer\app\libs\javacpp.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="D:\Documents\FaceRecognizer\app\build\intermediates\pre-dexed\debug\javacpp-e1702619b80800902fbe3a61a5baaa4e5aec9a64.jar" />
+    </item>
+    <item
+        jar="D:\Documents\FaceRecognizer\app\libs\javacv.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="D:\Documents\FaceRecognizer\app\build\intermediates\pre-dexed\debug\javacv-c41d226ecc428bafd0fa203823a0da1bdf6c35c6.jar" />
+    </item>
+    <item
+        jar="D:\Documents\FaceRecognizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="D:\Documents\FaceRecognizer\app\build\intermediates\pre-dexed\debug\classes-2a6a8075919af477158766e62d6ee9d5be355fb3.jar" />
+    </item>
+    <item
+        jar="D:\Documents\FaceRecognizer\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="D:\Documents\FaceRecognizer\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-56048882047b0d8dafddecbc496c75ca35a6b2ca.jar" />
+    </item>
+
+</items>
